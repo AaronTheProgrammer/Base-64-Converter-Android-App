@@ -18,3 +18,5 @@ only reliably support text content. Base64 is particularly prevalent on the Worl
 to embed image files or other binary assets inside textual assets such as HTML and CSS files.[2] Base64 is also widely used for sending 
 e-mail attachments. This is required because SMTP – in its original form – was designed to transport 7-bit ASCII characters only. This 
 encoding causes an overhead of 33–37% (33% by the encoding itself; up to 4% more by the inserted line breaks).
+
+<h1>You can download and try out the app by downloading the app-debug.apk file listed above!</h1>
